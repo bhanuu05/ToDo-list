@@ -18,7 +18,7 @@ A sleek, responsive todo application built with vanilla JavaScript featuring gla
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://todo-list-bhanuu.netlify.app/) *(Replace with your GitHub Pages URL)*
+[View Live Demo](https://todo-list-bhanuu.netlify.app/) 
 
 ## 🛠️ Technologies Used
 
