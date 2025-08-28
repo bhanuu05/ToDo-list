@@ -31,10 +31,10 @@ A sleek, responsive todo application built with vanilla JavaScript featuring gla
 ## 📸 Screenshots
 
 ### Light Mode
-![Light Mode](https://via.placeholder.com/600x400/f5f5f5/333333?text=Light+Mode+Screenshot)
+![Light Mode](https://github.com/bhanuu05/ToDo-list/blob/main/ScreenShots/lightTheme%20(1).png)
 
 ### Dark Mode
-![Dark Mode](https://via.placeholder.com/600x400/181818/ffffff?text=Dark+Mode+Screenshot)
+![Dark Mode](https://github.com/bhanuu05/ToDo-list/blob/main/ScreenShots/darkTheme.png)
 
 ## 🎯 Getting Started
 
