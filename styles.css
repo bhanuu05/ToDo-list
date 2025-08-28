@@ -117,6 +117,7 @@
     /* Input + Add button */
     .todo-input-container {
       display: flex;
+      flex-direction: row;
       gap: 10px;
       padding: 20px;
       border-bottom: 1px solid rgba(0, 0, 0, 0.05);
@@ -151,6 +152,13 @@
       background: #2f8ad7;
     }
 
+    @media  (max-width:400px) {
+      .todo-input-container{
+        flex-direction: column;
+      }
+    }
+
+    
     /* Filter buttons */
     .filter-container {
       display: flex;
