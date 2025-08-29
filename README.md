@@ -47,12 +47,12 @@ A sleek, responsive todo application built with vanilla JavaScript featuring gla
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bhanuu05/todo-app.git
+   git clone https://github.com/bhanuu05/ToDo-list.git
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd todo-app
+   cd ToDo-list
    ```
 
 3. **Open in browser**
